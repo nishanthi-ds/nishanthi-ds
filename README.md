@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AI and Deep Learning enthusiast with experience in machine learning, time-series forecasting, and computer vision. I work on:<br><br>🤖 Machine Learning<br><br>🧠 Machine Learning<br><br>📊 Time-series forecasting <br><br>🎭 Computer vision<br><br>🎨 Adversarial Learning
+I am an AI and Deep Learning enthusiast with experience in machine learning, time-series forecasting, and computer vision. I work on:<br><br>🤖 Machine Learning<br><br>🧠 NLP<br><br>📊 Time-series forecasting <br><br>🎭 Computer vision<br><br>
 
 
 ## 🌐 Socials:
