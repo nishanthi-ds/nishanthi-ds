@@ -1,7 +1,6 @@
 # About Me:
 I’m an AI and Deep Learning enthusiast with hands-on experience in machine learning, time-series forecasting, and computer vision. I enjoy turning complex data into real-world AI solutions and continuously exploring the latest in Generative AI and Transformer-based models.<br><br>I work on:<br><br>🔹 Machine Learning & Deep Learning<br>🔹 Natural Language Processing (NLP)<br>🔹 Time-Series Forecasting<br>🔹 Computer Vision <br>🔹 Transformer-based Architectures<br>🔹 Generative AI <br><br><br>
 
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ds-nishanthi/) 
 
